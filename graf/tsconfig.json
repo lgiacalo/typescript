@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "pretty": true,
+        "outDir": "./build"
+    },
+    "files": [
+        "index.ts",
+        "scrollto.d.ts",
+        "typings/index.d.ts"
+    ]
+}

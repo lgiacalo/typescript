@@ -1,0 +1,16 @@
+{
+  "name": "graf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "scroll-to": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./build/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
